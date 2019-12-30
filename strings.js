@@ -1,5 +1,5 @@
-let fisrtName = 'Rafael'
-let lastName = 'Raso'
-let fullName = fisrtName + ' ' + lastName
+let fisrtName = "Rafael";
+let lastName = "Raso";
+let fullName = fisrtName + " " + lastName;
 
-console.log(fullName)
+console.log(fullName);
